@@ -1,6 +1,7 @@
 # radar-indicator
 <img src="radar-indicator.PNG" width="480" alt="Combined Image" />  
-Simulation of a radar indicator using OpenGL (Freeglut library)  
+Simulation of a radar indicator using OpenGL (Freeglut library).  
+
 Several targets move with given speed toward radar location. Target's position is updated when the radar beam passed the target.  
 
 **Visual Studio setup:**  

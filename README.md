@@ -1,12 +1,11 @@
 # radar-indicator
 
 Simulate a radar indicator using OpenGL (Freeglut library)
-<div class="imgcap">
-<img src="radar-indicator.PNG" width="480" alt="Combined Image" />
-<div class="thecap">Input image in HSL color space</div>
-</div>
+<img src="radar-indicator.PNG" width="480" alt="Combined Image" />  
 
-Visual Studio setup
+Several targets move with given speed toward radar location. Target's position is updated when the radar beam passed the target.  
+
+**Visual Studio setup:**  
 1. Create a new project (Windows Console Application)
 2. Add `main.cpp` and `radar.h` files
 3. Add include directory to `freeglut/include`

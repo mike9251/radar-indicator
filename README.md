@@ -1,6 +1,10 @@
 # radar-indicator
 
 Simulate a radar indicator using OpenGL (Freeglut library)
+<div class="imgcap">
+<img src="radar-indicator.PNG" width="480" alt="Combined Image" />
+<div class="thecap">Input image in HSL color space</div>
+</div>
 
 Visual Studio setup
 1. Create a new project (Windows Console Application)
